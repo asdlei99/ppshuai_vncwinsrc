@@ -1,0 +1,2 @@
+# ppshuai_vncwinsrc
+vs2015编译支持32和64位的vnc工程
